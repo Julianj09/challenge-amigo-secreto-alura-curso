@@ -41,3 +41,10 @@ function sortearAmigo() {
     li.textContent = `El amigo secreto es: ${amigoSorteado}`;
     resultado.appendChild(li);
 }
+
+function limpiarSorteo() {
+    document.querySelector("#resultado").innerHTML = "";
+    amigos = []; 
+    actualizarLista(); 
+}
+
