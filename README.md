@@ -28,7 +28,7 @@
 
 - **Clona este repositorio:**
 
-- git clone https://github.com/tu_usuario/amigo-secreto.git
+    - git clone https://github.com/tu_usuario/amigo-secreto.git
 - Abre el archivo index.html en tu navegador.
 - Agrega los nombres de los participantes.
 - Presiona "Sortear amigo" para seleccionar un amigo secreto.
